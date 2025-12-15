@@ -4,11 +4,6 @@
 
 ---
 
-# 4x4 DRAM Core
-
-<img width="1695" height="789" alt="Screenshot from 2025-11-21 11-00-20" src="https://github.com/user-attachments/assets/07f98bc4-dacf-43a6-bd5d-03f2856e91df" />
-
----
 
 # 4x4 DRAM Test circuit with symbol
 
