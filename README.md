@@ -85,3 +85,9 @@ All results are based on **qualitative waveform analysis**, suitable for archite
 
 This repository contains **schematic and simulation screenshots only**.  
 No PDK files or proprietary models are included.
+
+---
+
+## 🔹 License
+
+This project is intended for **educational and academic purposes only**.
